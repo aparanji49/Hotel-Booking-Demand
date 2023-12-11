@@ -1,5 +1,5 @@
-# Hotel-Booking-Demand-Information-Visualization
-Final Term Project of Information Visualization on Hotel Booking Demand Dataset.
+# Hotel-Booking-Demand
+Information Visualization of Hotel Booking Demand Dataset.
 It was developed using Python Libraries like Plotly, Pandas, Numpy, and DASH App Framework.
 
 Hosted on Google Cloud Platform:
